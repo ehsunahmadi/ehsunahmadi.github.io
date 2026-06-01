@@ -30,6 +30,6 @@
 		}
 	},
 	"files": {
-		"ignore": ["package-lock.json", ".astro"]
+		"ignore": ["package-lock.json", ".astro", "public/static-demo/**"]
 	}
 }
